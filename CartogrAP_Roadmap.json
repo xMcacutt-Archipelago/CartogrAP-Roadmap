@@ -32,14 +32,19 @@
       "complete": false
     },
     {
-      "display": "control remapping",
-      "description": "",
+      "display": "in-game logic tracker",
+      "description": "visual tracker combined into the client",
       "complete": false
     },
     {
-      "display": "control remapping",
-      "description": "",
+      "display": "adjustable theming",
+      "description": "option to input your own themes into the game",
       "complete": false
-    }
+    },
+    {
+      "display": "traps",
+      "description": "add visual or control abesd traps or even something completely different",
+      "complete": false
+    },
   ]
 }
