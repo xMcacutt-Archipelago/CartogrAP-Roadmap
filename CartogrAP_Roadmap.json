@@ -45,6 +45,6 @@
       "display": "traps",
       "description": "add visual or control abesd traps or even something completely different",
       "complete": false
-    },
+    }
   ]
 }
