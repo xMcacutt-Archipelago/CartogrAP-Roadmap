@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "display": "got a feature request?",
+      "description": "leave a comment on the itch page",
+      "complete": true,
+      "link": "https://xmcacutt.itch.io/cartograp"
+    },
+    {
+      "display": "control remapping",
+      "description": "",
+      "complete": false
+    },
+    {
+      "display": "checkpoint overhaul",
+      "description": "checkpoint teleporters will be navigable via selection rather than looping",
+      "complete": false
+    },
+    {
+      "display": "save management",
+      "description": "a dialog will display to ask wether the save should be deleted before loading",
+      "complete": false
+    },
+    {
+      "display": "overview controls",
+      "description": "an overview of your entire control scheme",
+      "complete": false
+    },
+    {
+      "display": "useful item balancing",
+      "description": "useful items appear better spaced apart so they are actually useful",
+      "complete": false
+    },
+    {
+      "display": "control remapping",
+      "description": "",
+      "complete": false
+    },
+    {
+      "display": "control remapping",
+      "description": "",
+      "complete": false
+    }
+  ]
+}
