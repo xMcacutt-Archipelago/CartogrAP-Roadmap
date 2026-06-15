@@ -22,6 +22,11 @@
       "complete": false
     },
     {
+      "display": "fishing improvements",
+      "description": "overhaul parts of the fishing system to make it feel fairer and more interesting",
+      "complete": false
+    },
+    {
       "display": "overview controls",
       "description": "an overview of your entire control scheme",
       "complete": false
