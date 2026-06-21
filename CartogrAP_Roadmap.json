@@ -48,7 +48,12 @@
     },
     {
       "display": "traps",
-      "description": "add visual or control abesd traps or even something completely different",
+      "description": "add visual or control baesd traps or even something completely different",
+      "complete": false
+    },
+    {
+      "display": "more regions",
+      "description": "",
       "complete": false
     }
   ]
